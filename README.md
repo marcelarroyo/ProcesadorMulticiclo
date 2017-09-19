@@ -1,1 +1,2 @@
 # ProcesadorMulticiclo
+El objetivo de este proyecto es aprender a desenvolupar un prototipo de un computador o un SoC(System on Chip) en un chip programable sobre una placa base para crear un mini-ordenador. Se pondrán en práctica algunos de los conceptos adquiridos durante las assignaturas anteriores curasadas en la carrera sobre el diseño de la microarquitectura de un procesador, sobre el diseño y implementación de software de sistema, y sobre el diseño de sistemas digitales.
